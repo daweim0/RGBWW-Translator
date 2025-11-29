@@ -1,6 +1,7 @@
 {
   "domain": "rgbww_translator",
   "name": "RGBWW-Translator",
+  "version": "0.0.2",
   "codeowners": [],
   "dependencies": [],
   "documentation": "https://www.example.com",
