@@ -12,7 +12,7 @@ from homeassistant.core import HomeAssistant, callback
 from homeassistant.helpers.entity import DeviceInfo
 
 
-DOMAIN = "light"
+DOMAIN = "rgbww_translator"
 
 
 async def async_setup_entry(hass: HomeAssistant, entry, async_add_entities):
