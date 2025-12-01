@@ -3,7 +3,7 @@
   "name": "RGBWW-Translator",
   "version": "0.0.2",
   "codeowners": [],
-  "dependencies": [],
+  "dependencies": ["light"],
   "documentation": "https://www.example.com",
   "integration_type": "hub",
   "iot_class": "local_polling",
